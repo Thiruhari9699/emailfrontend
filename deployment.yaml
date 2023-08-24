@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: nodeserver
-        image: Thiruhari9699/emailfrontend:latest
+        image: Thiruhari9699/emailfrontend:frontend
         ports:
         - containerPort: 3000
